@@ -1,4 +1,9 @@
-[![Bitcube](https://bitcube.tech/wp-content/themes/bitcube_theme/images/layout/logo-2.png)](https://bitcube.tech/)
+
+<a href="https://bitcube.tech/" target="_blank"><img src="https://bitcube.tech/wp-content/themes/bitcube_theme/images/layout/logo-2.png"/></a>
+
+
+
+
 
 # About Me:
 Junior Developer @ [Bitcube](https://bitcube.tech/)
@@ -16,5 +21,3 @@ Junior Developer @ [Bitcube](https://bitcube.tech/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LukeDeKiewitBitcube&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
