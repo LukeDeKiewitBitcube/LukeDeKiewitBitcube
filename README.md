@@ -1,4 +1,4 @@
-![Bitcube](https://bitcube.tech/wp-content/themes/bitcube_theme/images/layout/logo-2.png)
+[![Bitcube](https://bitcube.tech/wp-content/themes/bitcube_theme/images/layout/logo-2.png)](https://bitcube.tech/)
 
 # About Me:
 Junior Developer @ Bitcube
