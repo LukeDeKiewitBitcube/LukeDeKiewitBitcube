@@ -1,9 +1,4 @@
-
-<a href="https://bitcube.tech/" target="_blank"><img src="https://bitcube.tech/wp-content/themes/bitcube_theme/images/layout/logo-2.png"/></a>
-
-
-
-
+[![Bitcube](https://bitcube.tech/wp-content/themes/bitcube_theme/images/layout/logo-2.png)](https://bitcube.tech/)
 
 # About Me:
 Junior Developer @ [Bitcube](https://bitcube.tech/)
