@@ -1,11 +1,12 @@
 [![Bitcube](https://bitcube.tech/wp-content/themes/bitcube_theme/images/layout/logo-2.png)](https://bitcube.tech/)
 
-
 # About Me:
 Junior Developer @ [Bitcube](https://bitcube.tech/)
 
 # Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit)
+[![GitHub](https://img.shields.io/badge/GitHub%20Profile-2f2f32)](https://github.com/lukedekiewit)
+
 
 # Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
