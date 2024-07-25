@@ -5,7 +5,7 @@ Junior Developer @ [Bitcube](https://bitcube.tech/)
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit)
-[![GitHub](https://img.shields.io/badge/GitHub%20Profile-2f2f32)](https://github.com/lukedekiewit)
+[![GitHub](https://img.shields.io/badge/Personal%20GitHub%20Profile-2f2f32)](https://github.com/lukedekiewit)
 
 
 # Tech Stack:
