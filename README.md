@@ -28,6 +28,9 @@ Junior Developer @ [Bitcube](https://bitcube.tech/)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![WCAG Accessibility](https://img.shields.io/badge/WCAG%20Accessibility-005797?style=for-the-badge)
+[![WCAG Accessibility](https://img.shields.io/badge/WCAG%20Accessibility-005797?style=for-the-badge)](https://www.w3.org/TR/WCAG21/)
+![BEM Methodology](https://img.shields.io/badge/BEM%20Methodology-2d2d2e?style=for-the-badge) 
+
+
 
 
