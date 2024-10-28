@@ -30,6 +30,8 @@ Junior Developer @ [Bitcube](https://bitcube.tech/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![WCAG Accessibility](https://img.shields.io/badge/WCAG%20Accessibility-005797?style=for-the-badge)](https://www.w3.org/TR/WCAG21/)
 ![BEM Methodology](https://img.shields.io/badge/BEM%20Methodology-2d2d2e?style=for-the-badge) 
+[![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-8cb4ff?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html)
+
 
 
 
