@@ -29,7 +29,7 @@ Junior Developer @ [Bitcube](https://bitcube.tech/)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![WCAG Accessibility](https://img.shields.io/badge/WCAG%20Accessibility-005797?style=for-the-badge)](https://www.w3.org/TR/WCAG21/)
-![BEM Methodology](https://img.shields.io/badge/BEM%20Methodology-2d2d2e?style=for-the-badge) 
+[![BEM Methodology](https://img.shields.io/badge/BEM%20Methodology-2d2d2e?style=for-the-badge) ](https://getbem.com/)
 [![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-8cb4ff?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html)
 [![SEO Optimisation](https://img.shields.io/badge/SEO%20Optimisation-313131?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/SEO)
 
