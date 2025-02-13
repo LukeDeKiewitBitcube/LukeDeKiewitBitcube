@@ -1,17 +1,17 @@
 <img src="https://github.com/user-attachments/assets/fd6b5065-ee01-4b80-84b0-00bc7b7ede45" alt="" width="100%" style="max-width: 100%;"/>
 
-# About Me:
+# About
 
 <img src="https://github.com/user-attachments/assets/a44c2a84-8f59-40fa-958e-8edd755650e5" alt="" width="200" height="200"/>
 
 Junior Front-End Developer @ [Bitcube](https://bitcube.tech/)
 
-# Socials:
+# Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit)
 [![GitHub](https://img.shields.io/badge/Personal%20GitHub%20Profile-2f2f32)](https://github.com/lukedekiewit)
 
 
-# Tech Stack:
+# Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -35,8 +35,3 @@ Junior Front-End Developer @ [Bitcube](https://bitcube.tech/)
 [![BEM Methodology](https://img.shields.io/badge/BEM%20Methodology-2d2d2e?style=for-the-badge) ](https://getbem.com/)
 [![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-8cb4ff?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html)
 [![SEO Optimisation](https://img.shields.io/badge/SEO%20Optimisation-313131?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/SEO)
-
-
-
-
-
