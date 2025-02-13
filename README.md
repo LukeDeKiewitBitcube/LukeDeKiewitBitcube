@@ -1,9 +1,8 @@
-<img src="https://camo.githubusercontent.com/db2e6f8c0dffa5252ae43799bf5b9c58d8fb30d818460867a719aa4186b52fd9/68747470733a2f2f6c756b6564656b69657769742e636f2e7a612f6c646b5f666c6f6174696e675f676c69746368795f616e696d617465645f6c6f676f5f6878645f66696e616c2e706e67" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/fd6b5065-ee01-4b80-84b0-00bc7b7ede45" alt="" width="100%" style="max-width: 100%;"/>
 
 # About Me:
-<img src="https://bitcube.tech/wp-content/themes/bitcube_theme/images/layout/logo-2.png" width="200" height="224"/>
 
-Junior Developer @ [Bitcube](https://bitcube.tech/)
+Junior Front-End Developer @ [Bitcube](https://bitcube.tech/)
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit)
