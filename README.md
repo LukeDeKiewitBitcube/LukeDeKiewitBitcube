@@ -2,6 +2,8 @@
 
 # About Me:
 
+<img src="https://github.com/user-attachments/assets/a44c2a84-8f59-40fa-958e-8edd755650e5" alt="" width="200" height="200"/>
+
 Junior Front-End Developer @ [Bitcube](https://bitcube.tech/)
 
 # Socials:
