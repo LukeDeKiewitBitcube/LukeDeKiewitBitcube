@@ -1,8 +1,5 @@
 <img src="https://github.com/user-attachments/assets/1ca96b34-c3e9-4083-bb2a-3a1af4f57397" alt="" width="100%" style="max-width: 100%;"/>
 
-![ldk_bitcube_github_header_30fps_final]()
-
-
 # About
 
 <img src="https://github.com/user-attachments/assets/a44c2a84-8f59-40fa-958e-8edd755650e5" alt="" width="200" height="200"/>
