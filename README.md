@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/99b5ae0a-b9f9-4fff-ab37-d7f9af433bf9" alt="" width="100%" style="max-width: 100%;"/>
+<img src="https://github.com/user-attachments/assets/1ca96b34-c3e9-4083-bb2a-3a1af4f57397" alt="" width="100%" style="max-width: 100%;"/>
+
+![ldk_bitcube_github_header_30fps_final]()
+
 
 # About
 
